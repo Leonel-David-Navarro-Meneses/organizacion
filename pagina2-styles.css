@@ -1,0 +1,13 @@
+/* Estilos específicos para la página 2 */
+
+/* Estilos para el título */
+h1 {
+    color: #3366FF;
+}
+
+/* Estilos para el párrafo */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
